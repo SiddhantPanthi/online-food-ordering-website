@@ -190,7 +190,7 @@ section{
 }
 
 .header .flex .navbar a:hover{
-   color:var(--yellow);
+   color:var(--green);
    text-decoration: underline;
 }
 
@@ -202,7 +202,7 @@ section{
 }
 
 .header .flex .icons > *:hover{
-   color: var(--yellow);
+   color: var(--green);
 }
 
 .header .flex .icons span{
@@ -252,7 +252,7 @@ section{
 }
 
 .header .flex .profile .account a:hover{
-   color:var(--yellow);
+   color:var(--green);
    text-decoration: underline;
 }
 
@@ -290,7 +290,7 @@ section{
 }
 
 .swiper-pagination-bullet-active{
-   background-color: var(--yellow);
+   background-color: var(--green);
 }
 
 .category .box-container{
@@ -434,7 +434,7 @@ section{
 
 .products .box-container .box .flex .fa-edit{
    width: 5rem;
-   background-color: var(--yellow);
+   background-color: var(--green);
    color:var(--black);
    cursor: pointer;
    font-size: 1.8rem;
@@ -599,7 +599,7 @@ section{
 
 .reviews .slide .stars i{
    font-size: 1.8rem;
-   color:var(--yellow);
+   color:var(--green);
 }
 
 .reviews .slide h3{
@@ -674,7 +674,7 @@ section{
 }
 
 .search-form form .fa-search:hover{
-   background-color: var(--yellow);
+   background-color: var(--green);
    color:var(--black);
 }
 
