@@ -18,7 +18,7 @@
 }
 
 *::selection{
-   background-color: var(--yellow);
+   background-color: var(--green);
    color:var(--black);
 }
 
@@ -32,7 +32,7 @@
 }
 
 ::-webkit-scrollbar-thumb{
-   background-color: var(--yellow);
+   background-color: var(--green);
 }
 
 html{
@@ -80,7 +80,7 @@ section{
 }
 
 .heading p a{
-   color:var(--yellow);
+   color:var(--green);
 }
 
 .heading p a:hover{
@@ -100,7 +100,7 @@ section{
 }
 
 .btn{
-   background-color: var(--yellow);
+   background-color: var(--green);
    color:var(--black);
 }
 
@@ -130,7 +130,7 @@ section{
    align-items: center;
    gap:1rem;
    justify-content: space-between;
-   background-color: var(--yellow);
+   background-color: var(--green);
 }
 
 .message span{
